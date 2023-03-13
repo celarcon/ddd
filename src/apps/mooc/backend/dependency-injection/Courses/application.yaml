@@ -1,0 +1,5 @@
+services:
+
+  Mooc.Courses.application.CourseCreator:
+    class: ../../../../../Context/Mooc/Courses/application/CourseCreator
+    arguments: []
